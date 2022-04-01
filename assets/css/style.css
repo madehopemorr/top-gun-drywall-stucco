@@ -13,8 +13,55 @@
     padding: 20px;
     width: 80%;
     border: 2px solid slategray;
+    background-color: white;
 
 }
 h1 {
     margin-left: 60px;
+    color: white;
+}
+
+.img-lahab {
+    height: 120px;
+    width: 110px;
+}
+
+.img-calstone {
+    margin-right: 50px;
+}
+
+.img-tree {
+    height: 50px;
+    width: 190px;
+    padding-right: 10px;
+}
+
+.img-henry {
+    background-color: blue;
+    width: 150px;
+    height: 60px;
+}
+
+.img-clark {
+    height: 130px;
+    width: 200px;
+}
+
+.img-phillips {
+    width: 180px;
+    height: 90px;
+}
+
+.main-container {
+    background-color: rgb(216, 43, 43);
+    color: snow;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.products-container {
+    background-color: rgb(216, 43, 43);
+}
+
+.vendors-container {
+    background-color: rgb(216, 43, 43);
 }
