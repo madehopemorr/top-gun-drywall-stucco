@@ -1,3 +1,17 @@
+.main-container {
+    background-color: rgb(216, 43, 43);
+    color: snow;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.products-container {
+    background-color: rgb(216, 43, 43);
+}
+
+.vendors-container {
+    background-color: rgb(216, 43, 43);
+}
+
 .navbar-brand {
     margin-left: 20px;
 }
@@ -52,16 +66,7 @@ h1 {
     height: 90px;
 }
 
-.main-container {
-    background-color: rgb(216, 43, 43);
-    color: snow;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.products-container {
-    background-color: rgb(216, 43, 43);
-}
-
-.vendors-container {
-    background-color: rgb(216, 43, 43);
+.img-stytek {
+    width: 180px;
+    height: 50px;
 }
