@@ -1,15 +1,15 @@
 .main-container {
-    background-color: rgb(216, 43, 43);
-    color: snow;
+    background-color: rgb(255, 255, 49);
+    color: black;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .products-container {
-    background-color: rgb(216, 43, 43);
+    background-color: rgb(255, 255, 49);
 }
 
 .vendors-container {
-    background-color: rgb(216, 43, 43);
+    background-color: rgb(255, 255, 49);
 }
 
 .navbar-brand {
@@ -33,7 +33,7 @@
 }
 h1 {
     margin-left: 60px;
-    color: white;
+    color: black;
 }
 
 .img-lahab {
