@@ -28,6 +28,7 @@
     width: 80%;
     border: 2px solid slategray;
     background-color: white;
+    border-radius: 20px;
 
 }
 h1 {
@@ -69,4 +70,29 @@ h1 {
 .img-stytek {
     width: 180px;
     height: 50px;
+}
+
+.img-prime {
+    width: 180px;
+    height: 60px;
+}
+
+.img-bmd {
+    background-color: rgb(10, 10, 161);
+    width: 180px;
+    height: 90px;
+}
+
+.img-stockton {
+    width: 180px;
+    height: 90px;
+}
+
+.img-bon {
+    background-color: rgb(10, 10, 161) ;
+}
+
+.img-wire {
+    width: 190px;
+    height: 110px;
 }
